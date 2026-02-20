@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS26744E-Q1")(type "KiCad")(uri "C:/Users/Aaron/Downloads/ul_P26744EAATRHBRQ1/KiCADv6/2026-02-09_17-54-19.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD4S480RUKR")(type "KiCad")(uri "C:/Users/Aaron/Downloads/TPD4S480RUKR/KiCADv6/2026-02-09_23-30-47.kicad_sym")(options "")(descr ""))
+)
