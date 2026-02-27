@@ -2881,6 +2881,12 @@
 		(uuid "2ac545ea-948f-4d89-ba55-67d88600957e")
 	)
 	(junction
+		(at 40.64 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b47f0ba-7eaa-4dba-aa2e-17d0bf2fdeeb")
+	)
+	(junction
 		(at 33.02 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2903,12 +2909,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52c61163-3aa0-49da-8c36-ae39ccea5c92")
-	)
-	(junction
-		(at 41.91 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7ea37cd7-0c6e-4426-9b44-fb14cfd9b501")
 	)
 	(junction
 		(at 148.59 177.8)
@@ -3082,7 +3082,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 40.64) (xy 41.91 40.64)
+			(xy 33.02 40.64) (xy 40.64 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3119,6 +3119,16 @@
 			(type default)
 		)
 		(uuid "24bd2cbc-013a-40bd-b18c-ab1ab482f371")
+	)
+	(wire
+		(pts
+			(xy 40.64 40.64) (xy 43.18 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25065fcf-854f-48f1-9446-fc09aa2fbe9e")
 	)
 	(wire
 		(pts
@@ -3229,16 +3239,6 @@
 			(type default)
 		)
 		(uuid "4643d0ef-e47c-4fd2-808d-b1a7b729922d")
-	)
-	(wire
-		(pts
-			(xy 41.91 39.37) (xy 41.91 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4876e0bf-39da-4ba3-9686-f6a9540538f1")
 	)
 	(wire
 		(pts
@@ -3359,26 +3359,6 @@
 			(type default)
 		)
 		(uuid "63984991-a99a-443e-8a81-b4e9be57483d")
-	)
-	(wire
-		(pts
-			(xy 41.91 40.64) (xy 33.02 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68d0c4b8-c286-4cd7-bbdd-ecb4fcbd9d01")
-	)
-	(wire
-		(pts
-			(xy 41.91 39.37) (xy 45.72 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a2816d5-2994-4ee9-86b0-23a2b1e63b4f")
 	)
 	(wire
 		(pts
@@ -3692,7 +3672,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 39.37) (xy 45.72 26.67)
+			(xy 40.64 26.67) (xy 40.64 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3969,16 +3949,6 @@
 			(justify left bottom)
 		)
 		(uuid "3c506456-3849-4669-9b28-81eef1189f6a")
-	)
-	(label "Vin_40V"
-		(at 41.91 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "41ba66c8-17d2-43b0-abb5-a61be428c6af")
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
@@ -5197,7 +5167,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 45.72 26.67 0)
+		(at 40.64 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5206,7 +5176,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b38f556-fe70-43f3-997e-25c9281642c0")
 		(property "Reference" "#PWR02"
-			(at 45.72 30.48 0)
+			(at 40.64 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5185,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 45.72 21.59 0)
+			(at 40.64 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5223,7 +5193,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 26.67 0)
+			(at 40.64 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5232,7 +5202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 26.67 0)
+			(at 40.64 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5241,7 +5211,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 45.72 26.67 0)
+			(at 40.64 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
