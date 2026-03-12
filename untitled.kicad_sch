@@ -9427,7 +9427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 105.1052 85.09 0)
 			(effects
 				(font
@@ -9564,7 +9564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 182.5752 39.37 0)
 			(effects
 				(font
@@ -9764,7 +9764,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 55.88 102.108 90)
 			(effects
 				(font
@@ -9964,7 +9964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 120.142 90)
 			(effects
 				(font
@@ -10034,7 +10034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 257.048 80.01 90)
 			(effects
 				(font
@@ -10104,7 +10104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 268.9352 45.72 0)
 			(effects
 				(font
@@ -10248,7 +10248,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:GCT_USB4216-03-A_REVA"
 			(at 241.3 49.53 0)
 			(effects
 				(font
@@ -10427,7 +10427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 146.05 110.998 90)
 			(effects
 				(font
@@ -10563,7 +10563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 260.35 63.5 0)
 			(effects
 				(font
@@ -10631,7 +10631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x22_P1.00mm_Vertical"
 			(at 182.88 111.76 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 39.0652 123.19 0)
 			(effects
 				(font
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 151.638 90)
 			(effects
 				(font
@@ -11050,7 +11050,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_MEC_5GSH9"
 			(at 87.63 77.47 0)
 			(effects
 				(font
@@ -11192,7 +11192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 194.0052 39.37 0)
 			(effects
 				(font
@@ -11328,7 +11328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 262.89 55.88 0)
 			(effects
 				(font
@@ -11464,7 +11464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 69.5452 53.34 0)
 			(effects
 				(font
@@ -11600,7 +11600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 210.5152 153.67 0)
 			(effects
 				(font
@@ -11804,7 +11804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 104.14 127.508 90)
 			(effects
 				(font
@@ -12061,7 +12061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 106.3752 33.02 0)
 			(effects
 				(font
@@ -12197,7 +12197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 199.0852 153.67 0)
 			(effects
 				(font
@@ -12265,7 +12265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 251.46 146.558 90)
 			(effects
 				(font
@@ -12335,7 +12335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 105.1052 62.23 0)
 			(effects
 				(font
@@ -12601,7 +12601,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 125.73 145.288 90)
 			(effects
 				(font
@@ -12763,7 +12763,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x22_P1.00mm_Vertical"
 			(at 163.83 111.76 0)
 			(effects
 				(font
@@ -12893,7 +12893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 256.032 80.01 90)
 			(effects
 				(font
@@ -13033,7 +13033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 235.9152 153.67 0)
 			(effects
 				(font
@@ -13101,7 +13101,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 115.57 24.638 90)
 			(effects
 				(font
@@ -13303,7 +13303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_MEC_5GSH9"
 			(at 87.63 54.61 0)
 			(effects
 				(font
@@ -13575,7 +13575,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 146.05 102.108 90)
 			(effects
 				(font
@@ -13645,7 +13645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 32.512 102.87 90)
 			(effects
 				(font
@@ -13781,7 +13781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.3452 153.67 0)
 			(effects
 				(font
@@ -13851,7 +13851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 64.4652 82.55 0)
 			(effects
 				(font
@@ -14118,7 +14118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 28.702 119.38 90)
 			(effects
 				(font
@@ -14384,7 +14384,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 124.46 119.888 90)
 			(effects
 				(font
@@ -14452,7 +14452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 180.34 58.928 90)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 66.802 39.37 90)
 			(effects
 				(font
@@ -14791,7 +14791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 265.43 62.23 0)
 			(effects
 				(font
@@ -14925,7 +14925,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 264.16 34.29 0)
 			(effects
 				(font
@@ -15061,7 +15061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 94.9452 33.02 0)
 			(effects
 				(font

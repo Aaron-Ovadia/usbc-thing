@@ -5798,7 +5798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 144.4752 43.18 0)
 			(effects
 				(font
@@ -5866,7 +5866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PJ-102A_CUD"
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
 			(at 191.77 25.4 0)
 			(effects
 				(font
@@ -5939,7 +5939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:GCT_USB4216-03-A_REVA"
 			(at 152.4 153.67 0)
 			(effects
 				(font
@@ -6186,7 +6186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 100.0252 101.6 0)
 			(effects
 				(font
@@ -6320,7 +6320,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 153.67 26.9748 0)
 			(effects
 				(font
@@ -6454,7 +6454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_MWSA1206S-4R7"
 			(at 140.97 25.4 0)
 			(effects
 				(font
@@ -6602,7 +6602,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 115.57 151.638 90)
 			(effects
 				(font
@@ -7132,7 +7132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VQFN56_RSH0056E_7X7_TEX"
+		(property "Footprint" "Library:VQFN56_RSH0056E_7X7_TEX"
 			(at 35.56 29.21 0)
 			(effects
 				(font
@@ -7364,7 +7364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 115.57 159.258 90)
 			(effects
 				(font
@@ -7434,7 +7434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "VQFN56_RSH0056E_7X7_TEX"
+		(property "Footprint" "Library:VQFN56_RSH0056E_7X7_TEX"
 			(at 134.62 71.12 0)
 			(effects
 				(font
@@ -7668,7 +7668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 44.1452 139.7 0)
 			(effects
 				(font
@@ -7738,7 +7738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 28.9052 95.25 0)
 			(effects
 				(font
@@ -7808,7 +7808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 20.0152 95.25 0)
 			(effects
 				(font
@@ -7942,7 +7942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Horizontal_TabDown"
 			(at 123.19 99.06 0)
 			(effects
 				(font
@@ -8108,7 +8108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 40.3352 132.08 0)
 			(effects
 				(font
@@ -8178,7 +8178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 135.5852 101.6 0)
 			(effects
 				(font
@@ -8247,7 +8247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 107.6452 41.91 0)
 			(effects
 				(font
@@ -8315,7 +8315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RUK0020B-IPC_A"
+		(property "Footprint" "Library:RUK0020B-IPC_A"
 			(at 59.69 129.54 0)
 			(effects
 				(font
@@ -8444,7 +8444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 31.242 173.99 90)
 			(effects
 				(font
@@ -8514,7 +8514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 120.3452 41.91 0)
 			(effects
 				(font
@@ -8583,7 +8583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 182.5752 34.29 0)
 			(effects
 				(font
@@ -8719,7 +8719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 133.0452 43.18 0)
 			(effects
 				(font
